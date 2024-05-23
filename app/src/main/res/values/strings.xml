@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestEnverfit</string>
+
+    <string name="missed">Missed</string>
+    <string name="completed">Completed</string>
+    <string name="x_exercises">%d exercises</string>
+</resources>
